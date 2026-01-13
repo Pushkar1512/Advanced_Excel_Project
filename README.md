@@ -1,6 +1,6 @@
 # Advanced_Excel_Project
 
-Hospital Emergency Room Dashboard
+Project Name : Hospital Emergency Room Dashboard
 
 Project Overview :
 This project focuses on analyzing hospital emergency room (ER) patient data using Advanced Excel to uncover key operational insights. The objective is to understand patient flow, admission trends, wait-time patterns, and department-wise demand to support data-driven decision-making in healthcare operations.
